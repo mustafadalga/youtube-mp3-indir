@@ -1,6 +1,4 @@
-# youtube-mp3-indir
-Powershell kullanarak youtube'den mp3 indirme
-
+# Powershell kullanarak youtube'den mp3 indirme
 
 
 Script'in kullanılabilmesi için bilgisayarınızda  chocolatey paket yöneticisinin kurulu olması gerekiyor.
