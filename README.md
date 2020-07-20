@@ -1,4 +1,4 @@
-# Youtube Mp3 İndirme
+# Powershell - Youtube Mp3 İndirme
 
 **Script'in kullanılabilmesi için bilgisayarınızda  chocolatey paket yöneticisinin kurulu olması gerekiyor.**
 
