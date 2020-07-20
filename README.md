@@ -14,11 +14,15 @@
 
 
 **Youtube-dl paketi kurulumu için;**
-* choco install youtube-dl
 
+```
+choco install youtube-dl
+```
 **ffmpeg paketinin kurulumu için;**
-* choco install ffmpeg
 
+```
+choco install ffmpeg
+```
 
 Yukarıdaki paketleri kurduktan sonra script'i kullanmaya başlayabilirsiniz.
 
